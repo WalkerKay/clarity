@@ -144,7 +144,8 @@
     "typescript": "^3.1.3",
     "uglifyjs": "^2.4.11",
     "uglifyjs-webpack-plugin": "^1.2.5",
-    "webpack-cli": "^2.0.15"
+    "webpack-cli": "^2.0.15",
+    "xml-js": "^1.6.8"
   },
   "engines": {
     "node": ">=10.9.0 <11.0.0",
